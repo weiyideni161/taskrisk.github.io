@@ -1,1 +1,0 @@
-import"./index-Be3qep0Z.js";import{d as e,o,f as s,e as t}from"./vendor-HAsUspXb.js";const a={class:"about"},n=t("h1",null,"This is an about pageasdas",-1),_=[n],m=e({__name:"HomeView",setup(c){return(i,r)=>(o(),s("div",a,_))}});export{m as default};
